@@ -47,12 +47,15 @@ def main():
         for j in urls_a(i):
             __URLs_CAT_.append(__URL_END_.format(j["href"].split("/catalog/")[1][:-1]))
     print(__URLs_CAT_)
+    url_i = ""
     for ij in __URLs_CAT_:
         for i in urls_div(soup_(ij)):
             a = urls_a(i,class_=True)
             if a:
                 for zij in a:
-                    __URL_PRODUCT__.append(__URL__+(zij["href"].split("/catalog/")[1]))
+                    if zij["href"].split("/catalog/")[1] != url_i:
+                        __URL_PRODUCT__.append(__URL__+(zij["href"].split("/catalog/")[1]))
+                        url_i = zij["href"].split("/catalog/")[1]
             else:
                 try:
                     for j in urls_a(i):
@@ -60,8 +63,9 @@ def main():
                             for x in urls_div(soup_(__URL_END_.format(j["href"].split("/catalog/")[1][:-1]))):
                                 a = urls_a(x,class_=True)
                                 for zij in a:
-                                    __URL_PRODUCT__.append(__URL__+(zij["href"].split("/catalog/")[1]))
-
+                                    if url_i!=zij["href"].split("/catalog/")[1]:
+                                        __URL_PRODUCT__.append(__URL__+(zij["href"].split("/catalog/")[1]))
+                                        url_i=zij["href"].split("/catalog/")[1]
                         except Exception as e:
                             pass
                 except Exception as e:
@@ -73,7 +77,7 @@ def main():
             price = soup.find_all("span", class_="woocommerce-Price-amount amount")[0].text
             get = (soup.find_all("span", class_="sku_wrapper")[-1].text).split(":")[-1]
             name = soup.find("h3", class_="product_title entry-title").text
-            __URL_PRODUCTS__[i.split("/")[-2]] = [i,name,price,get,i.split("/")[-2]+"-"+i.split("/")[-2]]
+            __URL_PRODUCTS__[i.split("/")[-2]] = [i,name,price,get,i.split("/")[-3]+"-"+i.split("/")[-2]]
             print(__URL_PRODUCTS__[i.split("/")[-2]])
             z+=1
         except Exception as e:
@@ -104,8 +108,8 @@ def main():
             sheet1.write(z, 2, __URL_PRODUCTS__[i][1])
             sheet1.write(z, 3, __URL_PRODUCTS__[i][2])
             sheet1.write(z, 4, __URL_PRODUCTS__[i][3])
-            sheet1.write(z, 5, i)
-
+            sheet1.write(z, 5,  __URL_PRODUCTS__[i][4])
+        print(__URL_PRODUCTS__[i][0])
         z+=1
     book.save("print.xls")
 if __name__ == '__main__':
