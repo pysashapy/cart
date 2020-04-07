@@ -3,117 +3,99 @@ import csv
 import xlwt
 from bs4 import BeautifulSoup
 
-
-
-def int_str(i):
-    try:
-        int(i)
-        return True
-    except Exception as e:
-        return False
-
-def soup_(url):
-    html = requests.get(url).text
-    return BeautifulSoup(html, 'html.parser')
-
-def urls_div(soup):
-    return soup.find_all("div", id="content")
-
-def urls_a(soup,class_=False):
-    return soup.find_all("a",class_=class_,href=True)
-def urls_end(soup):
-    try:
-        return soup.find_all("a",class_="page-numbers", href=True)[-1]["href"]
-    except Exception as e:
-        return None
-def search_get(out):
-    a = {}
-    for row in out:
-        try:
-            a[row["Артикул"].split("-")[-1]] =["http://opt-list.ru/admin/store_goods_edit/{0}/all_goods".format(row["Идентификатор товара в магазине"]),row["Цена продажи, без учёта скидок"],row["Остаток"],row["Артикул"]]
-        except Exception as e:
-            print(e)
-    return a
-def test():
-    print("http://www.absolut-tds.com/catalog/gsmrepit/11823/".split("/")[-2])
-def main():
-    __URL__ = "http://www.absolut-tds.com/catalog/"
+class Pr(object):
+    """docstring for property."""
+    print(4)
+    __URL__ = "http://www.absolut-tds.com"
+    print(5)
     __URL_END_ = "http://www.absolut-tds.com/catalog/{0}/index.php?pp=99999&SECTION_CODE={0}"
+    print(6)
     __URLs_CAT_ = []
-    __URL_PRODUCT__ = []
-    __URL_PRODUCTS__ = {}
-    soup = soup_(__URL__)
-    for i in urls_div(soup):
-        for j in urls_a(i):
-            __URLs_CAT_.append(__URL_END_.format(j["href"].split("/catalog/")[1][:-1]))
-    print(__URLs_CAT_)
-    url_i = ""
-    for ij in __URLs_CAT_:
-        for i in urls_div(soup_(ij)):
-            a = urls_a(i,class_=True)
-            if a:
-                for zij in a:
-                    if zij["href"].split("/catalog/")[1] != url_i:
-                        __URL_PRODUCT__.append(__URL__+(zij["href"].split("/catalog/")[1]))
-                        url_i = zij["href"].split("/catalog/")[1]
-            else:
+    print(7)
+    __PRODUCT__ ={}
+    print(9)
+    def __init__(self):
+        print(3)
+        self.getMenu()
+    def int_str(self,i):
+        print(13)
+        try:
+            int(i)
+            return True
+        except Exception as e:
+            return False
+    def soup_(self,url):
+        print(14)
+        html = requests.get(url).text
+        return BeautifulSoup(html, 'html.parser')
+    def urls_div(self,soup):
+        print(15)
+        return soup.find_all("div", id="content")
+    def urls_a(self,soup,tg="a",class_=False,href=True):
+        print((tg,class_,True))
+        return soup.find_all(tg,class_=class_,href=href)
+    def urls_end(self,soup):
+        try:
+            return soup.find_all("a",class_="page-numbers", href=True)[-1]["href"]
+        except Exception as e:
+            return None
+    def search_get(self,out):
+        a = {}
+        for row in out:
+            try:
+                a[row["Артикул"].split("-")[-1]] =["http://opt-list.ru/admin/store_goods_edit/{0}/all_goods".format(row["Идентификатор товара в магазине"]),row["Цена продажи, без учёта скидок"],row["Остаток"],row["Артикул"]]
+            except Exception as e:
+                print(e)
+        return a
+    def getMenu(self):
+        print(1)
+        soup = self.soup_(self.__URL__+"/catalog/")
+        for j in self.urls_a(soup,"a", class_="category"):
+            self.__URLs_CAT_.append(self.__URL_END_.format(j["href"].split("/catalog/")[1][:-1]))
+        print(self.__URLs_CAT_)
+        self.run()
+    def run(self):
+        z1 = 0
+        z2 = 999999999
+        for url in self.__URLs_CAT_:
+            for i in self.urls_a(self.soup_(url),"a",class_="woocommerce-LoopProduct-link"):
+                a = self.soup_(self.__URL__+i["href"])
+                if z1==z2:break
                 try:
-                    for j in urls_a(i):
-                        try:
-                            for x in urls_div(soup_(__URL_END_.format(j["href"].split("/catalog/")[1][:-1]))):
-                                a = urls_a(x,class_=True)
-                                for zij in a:
-                                    if url_i!=zij["href"].split("/catalog/")[1]:
-                                        __URL_PRODUCT__.append(__URL__+(zij["href"].split("/catalog/")[1]))
-                                        url_i=zij["href"].split("/catalog/")[1]
-                        except Exception as e:
-                            pass
+                    z = i["href"].split("/catalog/")[-1][:-1].split("/")
+                    name = self.urls_a(a,tg="h3",class_="product_title entry-title",href=False)[-1].text
+                    warehouse = self.urls_a(a,tg="span",class_="sku",href=False)[-1].text
+                    price = self.urls_a(a,tg="span",class_="woocommerce-Price-amount amount",href=False)[-1].text
+                    self.__PRODUCT__[z[-1]] = [name,self.__URL__+i["href"],"-".join(z),warehouse,price]
+                    z1+=1
                 except Exception as e:
                     raise
-    z=1
-    for i in __URL_PRODUCT__:
-        try:
-            soup = soup_(i)
-            price = soup.find_all("span", class_="woocommerce-Price-amount amount")[0].text
-            get = (soup.find_all("span", class_="sku_wrapper")[-1].text).split(":")[-1]
-            name = soup.find("h3", class_="product_title entry-title").text
-            __URL_PRODUCTS__[i.split("/")[-2]] = [i,name,price,get,i.split("/")[-3]+"-"+i.split("/")[-2]]
-            print(__URL_PRODUCTS__[i.split("/")[-2]])
-            z+=1
-        except Exception as e:
-            print("НЕ НАЙДЕНО")
-
-    out = csv.DictReader(open("input.csv","r"), delimiter=';')
-    get_opt_list = search_get(out)
-    book = xlwt.Workbook(encoding="utf-8")
-    sheet1 = book.add_sheet("Python Sheet 1")
-    z = 0
-    for i in __URL_PRODUCTS__.keys():
-        try:
-            if get_opt_list[i]:
-                sheet1.write(z, 0, z)
-                sheet1.write(z, 1,  __URL_PRODUCTS__[i][0])
-                sheet1.write(z, 2, __URL_PRODUCTS__[i][1])
-                sheet1.write(z, 3, __URL_PRODUCTS__[i][2])
-                sheet1.write(z, 4, __URL_PRODUCTS__[i][3])
-                sheet1.write(z, 5,  __URL_PRODUCTS__[i][4])
-                sheet1.write(z,6, "")
-                sheet1.write(z,7, get_opt_list[i][0])
-                sheet1.write(z,8, get_opt_list[i][1])
-                sheet1.write(z,9, get_opt_list[i][2])
-                sheet1.write(z,10,get_opt_list[i][3])
-        except Exception as e:
+            if z1==z2:break
+        out = csv.DictReader(open("input.csv","r"), delimiter=';')
+        get_opt_list = self.search_get(out)
+        book = xlwt.Workbook(encoding="utf-8")
+        sheet1 = book.add_sheet("Python Sheet 1")
+        z = 0
+        print(len(self.__PRODUCT__),list(self.__PRODUCT__.keys()))
+        for i in self.__PRODUCT__.keys():
             sheet1.write(z, 0, z)
-            sheet1.write(z, 1,  __URL_PRODUCTS__[i][0])
-            sheet1.write(z, 2, __URL_PRODUCTS__[i][1])
-            sheet1.write(z, 3, __URL_PRODUCTS__[i][2])
-            sheet1.write(z, 4, __URL_PRODUCTS__[i][3])
-            sheet1.write(z, 5,  __URL_PRODUCTS__[i][4])
-        print(__URL_PRODUCTS__[i][0])
-        z+=1
-    book.save("print.xls")
+            sheet1.write(z, 1,  self.__PRODUCT__[i][0])
+            sheet1.write(z, 2, self.__PRODUCT__[i][1])
+            sheet1.write(z, 3, self.__PRODUCT__[i][2])
+            sheet1.write(z, 4, self.__PRODUCT__[i][4])
+            sheet1.write(z, 5,  self.__PRODUCT__[i][3])
+            try:
+                if get_opt_list[i]:
+                    sheet1.write(z,6, "")
+                    sheet1.write(z,7, get_opt_list[i][0])
+                    sheet1.write(z,8, get_opt_list[i][1])
+                    sheet1.write(z,9, get_opt_list[i][2])
+                    sheet1.write(z,10,get_opt_list[i][3])
+            except Exception as e:
+                pass
+            z+=1
+        book.save("print.xls")
+
 if __name__ == '__main__':
-    test1 = 0
-    if test1:
-        test()
-    else: main()
+
+    a = Pr()
