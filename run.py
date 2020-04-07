@@ -2,43 +2,19 @@ import requests
 import csv
 import xlwt
 from bs4 import BeautifulSoup
-
+import json
 class Pr(object):
     """docstring for property."""
-    print(4)
-    __URL__ = "http://www.absolut-tds.com"
-    print(5)
-    __URL_END_ = "http://www.absolut-tds.com/catalog/{0}/index.php?pp=99999&SECTION_CODE={0}"
-    print(6)
-    __URLs_CAT_ = []
-    print(7)
-    __PRODUCT__ ={}
-    print(9)
     def __init__(self):
-        print(3)
-        self.getMenu()
-    def int_str(self,i):
-        print(13)
-        try:
-            int(i)
-            return True
-        except Exception as e:
-            return False
-    def soup_(self,url):
-        print(14)
-        html = requests.get(url).text
-        return BeautifulSoup(html, 'html.parser')
-    def urls_div(self,soup):
-        print(15)
-        return soup.find_all("div", id="content")
-    def urls_a(self,soup,tg="a",class_=False,href=True):
-        print((tg,class_,True))
-        return soup.find_all(tg,class_=class_,href=href)
-    def urls_end(self,soup):
-        try:
-            return soup.find_all("a",class_="page-numbers", href=True)[-1]["href"]
-        except Exception as e:
-            return None
+        self.run()
+    def getJson(self):
+        a = open("input.json","r",encoding="utf-8")
+        a = a.read()
+        json_string = json.loads(a)
+        print(json_string["items"][0])
+        url = "http://www.absolut-tds.com/catalog/gsmrepit/%s/"
+        a = {i["id"]:{"url":url%i["id"],"name":i["name"],"id":i["id"],"price":i["price"],"available":i["available"]} for i in json_string["items"]}
+        return a
     def search_get(self,out):
         a = {}
         for row in out:
@@ -47,30 +23,10 @@ class Pr(object):
             except Exception as e:
                 print(e)
         return a
-    def getMenu(self):
-        print(1)
-        soup = self.soup_(self.__URL__+"/catalog/")
-        for j in self.urls_a(soup,"a", class_="category"):
-            self.__URLs_CAT_.append(self.__URL_END_.format(j["href"].split("/catalog/")[1][:-1]))
-        print(self.__URLs_CAT_)
-        self.run()
     def run(self):
-        z1 = 0
-        z2 = 999999999
-        for url in self.__URLs_CAT_:
-            for i in self.urls_a(self.soup_(url),"a",class_="woocommerce-LoopProduct-link"):
-                a = self.soup_(self.__URL__+i["href"])
-                if z1==z2:break
-                try:
-                    z = i["href"].split("/catalog/")[-1][:-1].split("/")
-                    name = self.urls_a(a,tg="h3",class_="product_title entry-title",href=False)[-1].text
-                    warehouse = self.urls_a(a,tg="span",class_="sku",href=False)[-1].text
-                    price = self.urls_a(a,tg="span",class_="woocommerce-Price-amount amount",href=False)[-1].text
-                    self.__PRODUCT__[z[-1]] = [name,self.__URL__+i["href"],"-".join(z),warehouse,price]
-                    z1+=1
-                except Exception as e:
-                    raise
-            if z1==z2:break
+
+        self.__PRODUCT__ = self.getJson()
+
         out = csv.DictReader(open("input.csv","r"), delimiter=';')
         get_opt_list = self.search_get(out)
         book = xlwt.Workbook(encoding="utf-8")
@@ -79,11 +35,11 @@ class Pr(object):
         print(len(self.__PRODUCT__),list(self.__PRODUCT__.keys()))
         for i in self.__PRODUCT__.keys():
             sheet1.write(z, 0, z)
-            sheet1.write(z, 1,  self.__PRODUCT__[i][0])
-            sheet1.write(z, 2, self.__PRODUCT__[i][1])
-            sheet1.write(z, 3, self.__PRODUCT__[i][2])
-            sheet1.write(z, 4, self.__PRODUCT__[i][4])
-            sheet1.write(z, 5,  self.__PRODUCT__[i][3])
+            sheet1.write(z, 1,  self.__PRODUCT__[i]["url"])
+            sheet1.write(z, 2, self.__PRODUCT__[i]["name"])
+            sheet1.write(z, 3, self.__PRODUCT__[i]["id"])
+            sheet1.write(z, 4, self.__PRODUCT__[i]["price"])
+            sheet1.write(z, 5,  self.__PRODUCT__[i]["available"])
             try:
                 if get_opt_list[i]:
                     sheet1.write(z,6, "")
