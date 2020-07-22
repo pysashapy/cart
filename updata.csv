@@ -1,0 +1,652 @@
+Название товара;Короткое описание товара;Полное описание товара;Скрыт ли товар на сайте?;Артикул;Цена продажи, без учёта скидок;Старая цена;Закупочная цена;Остаток;JSON Остаток;JSON BarCode;JSON Цена;Название товара у орбиты;Ссылка от орбиты;Ед. измерения;Изображения товара;Короткое SEO описание товара;Полное SEO описание товара;Заголовок страницы товара;Мета-тег keywords;Мета-тег description;URL переменная пути;Описание модификации товара;Идентификатор товара в магазине;Пользовательский идентификатор товара;Изображение модификации товара;Название х-ки товара №1;Значение х-ки товара №1;Название св-ва для модификации товара №1;Значение св-ва для модификации товара №1
+Колонка BLUETOOTH Орбита JBK(RS)-408;;"<table align=""center"" border=""1"" cellpadding=""1"" cellspacing=""1"" style=""box-sizing: border-box; border: 0px; font-family: Roboto, sans-serif; font-size: 16px; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; width: 1078px; max-width: 100%; background-color: transparent; border-collapse: collapse; color: rgb(0, 0, 0);"">
+	<tbody style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">FM</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">есть </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Bluetooth</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">есть</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Разъёмы</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">USB / TF / AUX-3.5мм</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Мощность (MAX)</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">5Вт</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Съемный аккумулятор</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">18650(1200mA)</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Встроенный микрофон </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">нет</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Размер</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5; text-align: center;"">
+			<p style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; outline: 0px; padding-top: 0px; vertical-align: baseline; text-align: left;"">22.5*16*9 см</p>
+			</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Прочее</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;""> </td>
+		</tr>
+	</tbody>
+</table>
+ 
+
+<p style=""box-sizing: border-box; border: 0px; font-family: Roboto, sans-serif; font-size: 16px; outline: 0px; padding-top: 0px; vertical-align: baseline; color: rgb(0, 0, 0);""> </p>
+ 
+
+<div style=""box-sizing: border-box; border: 0px; font-family: Roboto, sans-serif; font-size: 16px; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: rgb(0, 0, 0);""><br style=""box-sizing: border-box;"" />
+<b style=""box-sizing: border-box;"">ЦВЕТ ТОВАРА МОЖЕТ ОТЛИЧАТЬСЯ ОТ ЦВЕТА НА ФОТОГРАФИИ. ВЫБОР ЦВЕТА НЕ ПРЕДОСТАВЛЯЕТСЯ.</b></div>";;Б0000007356;428,00;0,00;0,00;565,00000;0;Б0000007356;429.03;JBK(RS)-408 колонка BLUETOOTH;http://www.absolut-tds.com/search/?q=Б0000007356;шт;"https://i3.stat01.com/2/972/109710911/6e1ffd/dsc7226-jpg.jpg
+https://i3.stat01.com/2/972/109710912/6e1ffd/dsc7232-jpg.jpg";;;Колонка BLUETOOTH Орбита JBK-408 купить;;;Kolonka-BLUETOOTH-Orbita-JBK-4;;93872321;;;Бренд;ОРБИТА;Минимальный заказ;1
+JBK-8836 колонка BLUETOOTH;;"<table align=""center"" border=""1"" cellpadding=""1"" cellspacing=""1"" style=""border: 0px; font-family: Roboto, sans-serif; font-size: 16px; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; width: 1078px; max-width: 100%; background-color: transparent; border-collapse: collapse; color: rgb(0, 0, 0);"">
+	<tbody style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">FM</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">есть </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Bluetooth</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">есть</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Разъёмы</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">USB / TF / AUX-3.5мм  / MIC-6.3мм </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Мощность (MAX)</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">10Вт</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Встроенный аккумулятор</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">1200mA (18650)</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Встроенный микрофон </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">нет</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Размер</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">
+			<p style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; outline: 0px; padding-top: 0px; vertical-align: baseline;"">38*18*16 см</p>
+			</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Прочее</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">материал: пластик/дерево</td>
+		</tr>
+	</tbody>
+</table>";;Б0000006391;1 206,00;0,00;0,00;500,00000;0;Б0000006391;1206.51;JBK-8836 колонка BLUETOOTH;http://www.absolut-tds.com/search/?q=Б0000006391;шт;"https://i4.stat01.com/2/3527/135269627/6e1ffd/8836-3-jpg.jpg
+https://i4.stat01.com/2/3527/135269628/6e1ffd/46307-png.png
+https://i4.stat01.com/2/3527/135269629/6e1ffd/img20200703143334-jpg.jpg
+https://i4.stat01.com/2/3527/135269630/6e1ffd/img20200703143614-jpg.jpg";;;JBK-8836 колонка BLUETOOTH купить;;;JBK-8836-kolonka-BLUETOOTH;;137142216;;;;;Минимальный заказ;1
+Орбита OT-VNI21 Белая видеокамера IP-WI-FI;;"<table border=""1"" cellpadding=""1"" cellspacing=""1"" style=""box-sizing: border-box; border: 0px; font-family: Roboto, sans-serif; font-size: 16px; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; width: 1078px; max-width: 100%; background-color: transparent; border-collapse: collapse; color: rgb(0, 0, 0);"">
+	<tbody style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Максимальное разрешение</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">2.0 Mп FHD 1080P (1920x1080) </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Связь</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">WI-FI - 802.11 b/n/g         </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Объектив </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">3.6 мм / F1/2""     </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Матрица</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Sony / CMOS / 0.1 LUX / угол обзора 85 / GK7102</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Слот для карты памяти </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">TF до 128Гб / 1 час 500Мб</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Сетевые функции</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">P2P Plug and Play/ TCP/IP, RTSP,ONVIF</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Формат сжатия видео / аудио </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">H.264   </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">LAN порт</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">нет</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Подсветка</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">до 15м</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Степень защиты </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">IP22          </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Материал корпуса </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">пластик</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Рабочая температура </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">-20 до +60 С </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Питание  </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">12В / 2А  microUSB (кабель/блок в комплекте) <br style=""box-sizing: border-box;"" />
+			потребляемая мощность 10Вт    </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Совместимость   </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Android / iOS / Windows</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Прочее</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">программа на смартфон: YCC365 plus<br style=""box-sizing: border-box;"" />
+			инструкция на Английском<br style=""box-sizing: border-box;"" />
+			поворотный корпус 355 / 135 градусов<br style=""box-sizing: border-box;"" />
+			крепление на стену в комплекте<br style=""box-sizing: border-box;"" />
+			встроенный микрофон<br style=""box-sizing: border-box;"" />
+			ручная запись, запись обнаружения движения, запись по расписанию</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Размер </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">100*80*120мм </td>
+		</tr>
+	</tbody>
+</table>";;Б0000008719;1 668,00;0,00;0,00;0,00000;600;Б0000008719;1669.59;Орбита OT-С329 Белая видеокамера IP-WI-FI;http://www.absolut-tds.com/search/?q=Б0000008719;шт;"https://i5.stat01.com/2/2404/124034734/6e1ffd/61dl8vecc5l-sl1000-jpg.jpg
+https://i2.stat01.com/2/2404/124034735/6e1ffd/61kk0jijcnl-sl1000-jpg.jpg
+https://i2.stat01.com/2/2404/124034736/6e1ffd/61oe4lio7ql-sl1000-jpg.jpg
+https://i2.stat01.com/2/2404/124034737/6e1ffd/61tt1-zi-wl-sl1000-jpg.jpg
+https://i5.stat01.com/2/2404/124034738/6e1ffd/329-jpg.jpg";;;Орбита OT-С329 Белая видеокамера IP-WI-FI купить;;;Orbita-OT-S329-Belaya-videokamera-IP-WI-FI;;122883478;;;Бренд;ОРБИТА;Минимальный заказ;1
+Орбита OT-VNI21 Черная видеокамера IP-WI-FI;;"<table border=""1"" cellpadding=""1"" cellspacing=""1"" style=""box-sizing: border-box; border: 0px; font-family: Roboto, sans-serif; font-size: 16px; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; width: 1078px; max-width: 100%; background-color: transparent; border-collapse: collapse; color: rgb(0, 0, 0);"">
+	<tbody style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Максимальное разрешение</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">2.0 Mп FHD 1080P (1920x1080) </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Связь</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">WI-FI - 802.11 b/n/g         </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Объектив </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">3.6 мм / F1/2""     </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Матрица</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Sony / CMOS / 0.1 LUX / угол обзора 85/GK7102</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Слот для карты памяти </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">TF до 128Гб/ 1 час 500Мб</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Сетевые функции</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">P2P Plug and Play/ TCP/IP, RTSP, ONVIF</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Формат сжатия видео / аудио </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">H.264   </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">LAN порт</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">нет</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Подсветка</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">до 15м</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Степень защиты </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">IP22          </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Материал корпуса </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">пластик</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Рабочая температура </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">-20 до +60 С </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Питание  </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">12В / 2А  microUSB (кабель/блок в комплекте) <br style=""box-sizing: border-box;"" />
+			потребляемая мощность 10Вт    </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Совместимость   </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Android / iOS / Windows</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Прочее</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">программа на смартфон: YCC365 plus<br style=""box-sizing: border-box;"" />
+			инструкция на Английском<br style=""box-sizing: border-box;"" />
+			поворотный корпус 355 / 135 градусов<br style=""box-sizing: border-box;"" />
+			крепление на стену в комплекте<br style=""box-sizing: border-box;"" />
+			встроенный микрофон<br style=""box-sizing: border-box;"" />
+			ручная запись, запись обнаружения движения, запись по расписанию</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Размер </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">100*80*120мм </td>
+		</tr>
+	</tbody>
+</table>";;Б0000008720;1 668,00;0,00;0,00;500,00000;400;Б0000008720;1669.59;Орбита OT-С329 Черная видеокамера IP-WI-FI;http://www.absolut-tds.com/search/?q=Б0000008720;шт;"https://i3.stat01.com/2/2404/124034742/6e1ffd/11-jpg.jpg
+https://i3.stat01.com/2/2404/124034743/6e1ffd/22-jpg.jpg
+https://i1.stat01.com/2/2404/124034744/6e1ffd/dsc5719-jpg.jpg
+https://i3.stat01.com/2/2404/124034745/6e1ffd/htb1czf8epoobknjszfpq6xa2xxaw-jpg.jpg
+https://i3.stat01.com/2/2404/124034746/6e1ffd/htb1lq0ha8cxbunjtbiq6xpmpxaj-jpg.jpg
+https://i5.stat01.com/2/2404/124034747/6e1ffd/htb13q0ml5oybunjssd4q6zskfxae-jpg.jpg
+https://i1.stat01.com/2/2404/124034748/6e1ffd/inqmega-hd-1080p-ip-jpgq50-jpg.jpg";;;Орбита OT-С329 Черная видеокамера IP-WI-FI купить;;;Orbita-OT-S329-Chernaya-videokamera-IP-WI-FI;;122883483;;;Бренд;ОРБИТА;Минимальный заказ;1
+Орбита OT-VNI20 Черная видеокамера IP-WI-FI;;"<table border=""1"" cellpadding=""1"" cellspacing=""1"" style=""box-sizing: border-box; border: 0px; font-family: Roboto, sans-serif; font-size: 16px; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; width: 1078px; max-width: 100%; background-color: transparent; border-collapse: collapse; color: rgb(0, 0, 0);"">
+	<tbody style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Максимальное разрешение</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">2.0 Mп FHD 1080P (1920x1080) </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Связь</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">WI-FI - 802.11 b/n/g         </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Объектив </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">3.6 мм / F1/2""     </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Матрица</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Sony / CMOS / 0.1 LUX / угол обзора 85/GK7102</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Слот для карты памяти </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">TF до 128Гб / 1 час 500Мб</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Сетевые функции</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">P2P Plug and Play/ TCP/IP, RTSP, ONVIF</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Формат сжатия видео / аудио </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">H.264   </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">LAN порт</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">нет</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Подсветка</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">до 15м</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Степень защиты </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">IP22          </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Материал корпуса </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">пластик</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Рабочая температура </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">-20 до +60 С </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Питание  </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">12В / 1.5А  microUSB (кабель/блок в комплекте) <br style=""box-sizing: border-box;"" />
+			потребляемая мощность 10Вт    </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Совместимость   </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Android / iOS / Windows</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Прочее</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">программа на смартфон: YCC365 plus<br style=""box-sizing: border-box;"" />
+			инструкция на Английском<br style=""box-sizing: border-box;"" />
+			поворотный корпус 355 / 110 градусов<br style=""box-sizing: border-box;"" />
+			крепление на стену в комплекте<br style=""box-sizing: border-box;"" />
+			встроенный микрофон<br style=""box-sizing: border-box;"" />
+			ручная запись, запись обнаружения движения, запись по расписанию</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Размер </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">105,6*75*75мм </td>
+		</tr>
+	</tbody>
+</table>";;Б0000008717;1 544,00;0,00;0,00;5 050,00000;600;Б0000008717;1544.74;Орбита OT-С291 Черная видеокамера IP-WI-FI;http://www.absolut-tds.com/search/?q=Б0000008717;шт;"https://i3.stat01.com/2/2404/124034724/6e1ffd/dsc5723-jpg.jpg
+https://i5.stat01.com/2/2404/124034725/6e1ffd/inqmega-hd-1080p-ip-jpgq50-1-jpg.jpg
+https://i3.stat01.com/2/2404/124034726/6e1ffd/inqmega-hd-1080p-ip-jpgq50-jpg.jpg
+https://i5.stat01.com/2/2404/124034727/6e1ffd/inqmega-shiwojia-1080p-smart-home-wireless-security-1-jpg.jpg
+https://i3.stat01.com/2/2404/124034728/6e1ffd/inqmega-shiwojia-1080p-smart-home-wireless-security-2-jpg.jpg
+https://i3.stat01.com/2/2404/124034729/6e1ffd/inqmega-shiwojia-1080p-smart-home-wireless-security-3-jpg.jpg
+https://i3.stat01.com/2/2404/124034730/6e1ffd/inqmega-shiwojia-1080p-smart-home-wireless-security-jpg.jpg";;;Орбита OT-С291 Черная видеокамера IP-WI-FI купить;;;Orbita-OT-S291-Chernaya-videokamera-IP-WI-FI;;122883477;;;Бренд;ОРБИТА;Минимальный заказ;1
+Орбита OT-VNI20 Белая видеокамера IP-WI-FI;;"<table border=""1"" cellpadding=""1"" cellspacing=""1"" style=""box-sizing: border-box; border: 0px; font-family: Roboto, sans-serif; font-size: 16px; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; width: 1078px; max-width: 100%; background-color: transparent; border-collapse: collapse; color: rgb(0, 0, 0);"">
+	<tbody style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Максимальное разрешение</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">2.0 Mп FHD 1080P (1920x1080) </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Связь</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">WI-FI - 802.11 b/n/g         </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Объектив </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">3.6 мм / F1/2""     </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Матрица</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Sony / CMOS / 0.1 LUX / угол обзора 85/GK7102</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Слот для карты памяти </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">TF до 128Гб / 1 час 500Мб</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Сетевые функции</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">P2P Plug and Play/ TCP/IP, RTSP, ONVIF</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Формат сжатия видео / аудио </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">H.264   </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">LAN порт</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">нет</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Подсветка</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">до 15м</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Степень защиты </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">IP22          </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Материал корпуса </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">пластик</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Рабочая температура </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">-20 до +60 С </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Питание  </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">12В / 1.5А  microUSB (кабель/блок в комплекте) <br style=""box-sizing: border-box;"" />
+			потребляемая мощность 10Вт    </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Совместимость   </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Android / iOS / Windows</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Прочее</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">программа на смартфон: YCC365 plus<br style=""box-sizing: border-box;"" />
+			инструкция на Английском<br style=""box-sizing: border-box;"" />
+			поворотный корпус 355 / 110 градусов<br style=""box-sizing: border-box;"" />
+			крепление на стену в комплекте<br style=""box-sizing: border-box;"" />
+			встроенный микрофон<br style=""box-sizing: border-box;"" />
+			ручная запись, запись обнаружения движения, запись по расписанию</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Размер </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">105,6*75*75мм</td>
+		</tr>
+	</tbody>
+</table>";;Б0000008716;1 544,00;0,00;0,00;5 656,00000;400;Б0000008716;1544.74;Орбита OT-С291 Белая видеокамера IP-WI-FI;http://www.absolut-tds.com/search/?q=Б0000008716;шт;"https://i4.stat01.com/2/3048/130472563/6e1ffd/sectec-hd-ip-cctv-cameras-mini-wifi-2-jpg.jpg
+https://i5.stat01.com/2/3048/130472562/6e1ffd/sectec-hd-ip-cctv-cameras-mini-wifi-1-jpg.jpg
+https://i5.stat01.com/2/3048/130472564/6e1ffd/sectec-hd-ip-cctv-cameras-mini-wifi-3-jpg.jpg
+https://i5.stat01.com/2/3048/130472565/6e1ffd/sectec-hd-ip-cctv-cameras-mini-wifi-4-jpg.jpg
+https://i4.stat01.com/2/3048/130472566/6e1ffd/sectec-hd-ip-cctv-cameras-mini-wifi-jpg.jpg
+https://i4.stat01.com/2/3048/130472561/6e1ffd/inqmega-hd-1080p-ip-jpgq50-jpg.jpg";;;;;;Orbita-OT-S291-Belaya-videokamera-IP-WI-FI;;130336051;;;;;Модификация;базовая
+Орбита OT-VNI22 Белая видеокамера IP-WI-FI;;"<table border=""1"" cellpadding=""1"" cellspacing=""1"" style=""box-sizing: border-box; border: 0px; font-family: Roboto, sans-serif; font-size: 16px; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; width: 1078px; max-width: 100%; background-color: transparent; border-collapse: collapse; color: rgb(0, 0, 0);"">
+	<tbody style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Максимальное разрешение</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">2.0 Mп FHD 1080P (1280x1080) </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Связь</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">WI-FI - 802.11 b/n/g / RJ45          </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Объектив </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">3.6 мм / F1/2""     </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Матрица</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">CMOS / 0.1 LUX / угол обзора 85/GK7102+2035</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Слот для карты памяти </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">TF до 128Гб / 1 час 500Мб</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Сетевые функции</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">P2P Plug and Play/ TCP/IP, RTSP, ONVIF</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Формат сжатия видео / аудио </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">H.264   </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">LAN порт</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">есть</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Подсветка</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">до 15м</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Степень защиты </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">IP66            </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Материал корпуса </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">пластик</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Рабочая температура </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">-45 до +55 С </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Питание  </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">12В / 2А  microUSB (кабель/блок в комплекте) <br style=""box-sizing: border-box;"" />
+			потребляемая мощность 10Вт    </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Совместимость   </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Android / iOS / Windows</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Прочее</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">программа на смартфон: YCC365 plus<br style=""box-sizing: border-box;"" />
+			инструкция на Английском<br style=""box-sizing: border-box;"" />
+			поворотный корпус 355 / 90 градусов<br style=""box-sizing: border-box;"" />
+			крепление на стену<br style=""box-sizing: border-box;"" />
+			встроенный микрофон<br style=""box-sizing: border-box;"" />
+			материал пластик<br style=""box-sizing: border-box;"" />
+			4х цифровой ZOOM<br style=""box-sizing: border-box;"" />
+			ручная запись, запись обнаружения движения, запись по расписанию</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Размер </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">170*170*95мм </td>
+		</tr>
+	</tbody>
+</table>";;Б0000008718;2 702,00;0,00;0,00;500,00000;336;Б0000008718;2702.44;Орбита OT-С381 Белая видеокамера IP-WI-FI;http://www.absolut-tds.com/search/?q=Б0000008718;шт;"https://i5.stat01.com/2/2404/124034750/6e1ffd/381-jpg.jpg
+https://i1.stat01.com/2/2404/124034751/6e1ffd/381-2-jpg.jpg
+https://i4.stat01.com/2/2404/124034752/6e1ffd/111684660411199381627-jpg.jpg
+https://i5.stat01.com/2/2404/124034753/6e1ffd/112315610191199381627-jpg.jpg
+https://i5.stat01.com/2/2404/124034754/6e1ffd/dsc5745-jpg.jpg
+https://i5.stat01.com/2/2404/124034755/6e1ffd/htb1x676crgw3kvjszfdq6xwepxa0-jpg.jpg
+https://i1.stat01.com/2/2404/124034756/6e1ffd/inqmega-4x-h-265x-1080p-ptz-ip-jpgq50-1-jpg.png
+https://i5.stat01.com/2/2404/124034757/6e1ffd/inqmega-4x-h-265x-1080p-ptz-ip-jpgq50-jpg.png
+https://i5.stat01.com/2/2404/124034758/6e1ffd/inqmega-hd-1080p-ip-jpgq50-jpg.jpg";;;Орбита OT-С381 Белая видеокамера IP-WI-FI купить;;;Orbita-OT-S381-Belaya-videokamera-IP-WI-FI;;122883486;;;Бренд;ОРБИТА;Минимальный заказ;1
+Орбита OT-VNI24 Белая видеокамера IP-WI-FI;;"<table border=""1"" cellpadding=""1"" cellspacing=""1"" style=""box-sizing: border-box; border: 0px; font-family: Roboto, sans-serif; font-size: 16px; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; width: 1078px; max-width: 100%; background-color: transparent; border-collapse: collapse; color: rgb(0, 0, 0);"">
+	<tbody style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Максимальное разрешение</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">2.0 Mп FHD 1080P (1920x1080) </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Связь</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">WI-FI - 802.11 b/n/g / RJ45          </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Объектив </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">3.6 мм / F1/2""     </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Матрица</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">CMOS / 0.1 LUX / угол обзора 85/GK7102+2035</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Слот для карты памяти </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">TF до 128Гб / 1 час 500Мб</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Сетевые функции</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">P2P Plug and Play/ TCP/IP, RTSP, ONVIF</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Формат сжатия видео / аудио </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">H.264   </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">LAN порт</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">есть</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Подсветка</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">до 15м</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Степень защиты </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">IP66            </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Материал корпуса </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">пластик</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Рабочая температура </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">-45 до +55 С </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Питание  </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">12В / 2А  microUSB (кабель/блок в комплекте) <br style=""box-sizing: border-box;"" />
+			потребляемая мощность 10Вт    </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Совместимость   </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Android / iOS / Windows</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Прочее</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">программа на смартфон: YCC365 plus<br style=""box-sizing: border-box;"" />
+			инструкция на Английском<br style=""box-sizing: border-box;"" />
+			поворотный корпус 355 / 70 градусов<br style=""box-sizing: border-box;"" />
+			крепление на стену<br style=""box-sizing: border-box;"" />
+			встроенный микрофон<br style=""box-sizing: border-box;"" />
+			материал пластик<br style=""box-sizing: border-box;"" />
+			ручная запись, запись обнаружения движения, запись по расписанию<br style=""box-sizing: border-box;"" />
+			автоматическое слежение </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Размер </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">170*170*110мм </td>
+		</tr>
+	</tbody>
+</table>";;Б0000008721;3 788,00;0,00;0,00;500,00000;336;Б0000008721;3988.39;Орбита OT-С393 Белая видеокамера IP-WI-FI;http://www.absolut-tds.com/search/?q=Б0000008721;шт;"https://i4.stat01.com/2/2404/124034768/6e1ffd/11-jpg.jpg
+https://i4.stat01.com/2/2404/124034769/6e1ffd/425ee5a0d9c4-jpg.jpg
+https://i2.stat01.com/2/2404/124034770/6e1ffd/9715407-5-jpg.jpg
+https://i5.stat01.com/2/2404/124034771/6e1ffd/9715407-9-jpg.jpg
+https://i5.stat01.com/2/2404/124034772/6e1ffd/dsc5742-jpg.jpg
+https://i5.stat01.com/2/2404/124034773/6e1ffd/inqmega-hd-1080p-ip-jpgq50-jpg.jpg";;;Орбита OT-С393 Белая видеокамера IP-WI-FI купить;;;Orbita-OT-S393-Belaya-videokamera-IP-WI-FI;;122883488;;;Бренд;ОРБИТА;Минимальный заказ;1
+Орбита OT-VNI23 Белая видеокамера IP-WI-FI;;"<table border=""1"" cellpadding=""1"" cellspacing=""1"" style=""box-sizing: border-box; border: 0px; font-family: Roboto, sans-serif; font-size: 16px; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; width: 1078px; max-width: 100%; background-color: transparent; border-collapse: collapse; color: rgb(0, 0, 0);"">
+	<tbody style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Максимальное разрешение</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">2.0 Mп FHD 1080P (1280x1080) </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Связь</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">WI-FI - 802.11 b/n/g / RJ45          </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Объектив </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">3.6 мм / F1/2""     </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Матрица</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">CMOS / 0.1 LUX / угол обзора 85/GK7102+2035</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Слот для карты памяти </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">TF до 128Гб / 1 час 500Мб</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Сетевые функции</td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">P2P Plug and Play/ TCP/IP, RTSP, ONVIF</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Формат сжатия видео / аудио </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">H.264   </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">LAN порт</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">есть</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Подсветка</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">до 30м</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Степень защиты </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">IP66            </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Материал корпуса </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">пластик</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Рабочая температура </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">-45 до +55 С </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Питание  </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">12В / 2А  microUSB (кабель/блок в комплекте) <br style=""box-sizing: border-box;"" />
+			потребляемая мощность 10Вт    </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Совместимость   </td>
+			<td style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Android / iOS / Windows</td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Прочее</td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">программа на смартфон: YCC365 plus<br style=""box-sizing: border-box;"" />
+			инструкция на Английском<br style=""box-sizing: border-box;"" />
+			поворотный корпус 355 / 70 градусов<br style=""box-sizing: border-box;"" />
+			крепление на стену<br style=""box-sizing: border-box;"" />
+			встроенный микрофон<br style=""box-sizing: border-box;"" />
+			материал пластик<br style=""box-sizing: border-box;"" />
+			ручная запись, запись обнаружения движения, запись по расписанию<br style=""box-sizing: border-box;"" />
+			автоматическое слежение </td>
+		</tr>
+		<tr style=""box-sizing: border-box; border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"">
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">Размер </td>
+			<td colspan=""1"" style=""box-sizing: border-box; border: 1px solid rgb(225, 225, 225); font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; line-height: 1.5;"">170*170*110мм </td>
+		</tr>
+	</tbody>
+</table>";;Б0000008722;2 462,00;0,00;0,00;99 999 983,00000;339;Б0000008722;2461.82;Орбита OT-С383 Белая видеокамера IP-WI-FI;http://www.absolut-tds.com/search/?q=Б0000008722;шт;"https://i5.stat01.com/2/2404/124034761/6e1ffd/333-jpg.jpg
+https://i5.stat01.com/2/2404/124034762/6e1ffd/444-jpg.jpg
+https://i5.stat01.com/2/2404/124034763/6e1ffd/1111-jpg.jpg
+https://i5.stat01.com/2/2404/124034764/6e1ffd/33901b40-7709-4fbe-8462-a96bfdfaace8-jpg.jpg
+https://i5.stat01.com/2/2404/124034765/6e1ffd/dsc5732-jpg.jpg
+https://i3.stat01.com/2/2404/124034766/6e1ffd/inqmega-1080p-ptz-wi-fi-jpgq50-jpg.jpg
+https://i5.stat01.com/2/2404/124034767/6e1ffd/inqmega-hd-1080p-ip-jpgq50-jpg.jpg";;;Орбита OT-С383 Белая видеокамера IP-WI-FI купить;;;Orbita-OT-S383-Belaya-videokamera-IP-WI-FI;;122883487;;;Бренд;ОРБИТА;Минимальный заказ;1
